@@ -1,0 +1,3 @@
+  Group  animals_produced
+0    CI               596
+1    NH               711

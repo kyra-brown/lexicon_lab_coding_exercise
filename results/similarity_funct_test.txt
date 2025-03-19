@@ -1,0 +1,1 @@
+The cosine similarity between jellyfish and penguin is 0.5028005523214121
